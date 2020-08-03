@@ -1,0 +1,63 @@
+.banner-area{
+    margin-top:-105px !important;
+    height: 700px !important;
+}
+
+.banner-content {
+    text-align: center !important;
+    margin-top: 303px !important;
+}
+
+.form-control{
+    margin-bottom: 10px !important; 
+}
+
+.portfolio-area .filters ul li.active{
+    font-size: 50px !important;
+}
+
+.name{
+    color: #eaf0f1;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.portfolio-area .filters-content .item img{
+    height: 250px; 
+}
+
+.fees{
+    margin-bottom: 10px !important;
+}
+
+.registration{
+    line-height: 2.625em !important;
+}
+
+.price{
+    padding-left: 35px !important;
+    color: #8ab92d !important;
+}
+
+.working{
+    padding-left: 13px !important;
+    color: #8ab92d !important
+}
+
+.contact{
+    font-size: 18px;
+}
+
+.btn i{
+    font-size: 2em !important;
+    width: 100px !important;
+    color: white;
+}
+
+.btn{
+    background-color: #8ab92d !important;
+}
+
+body{
+    line-height: 2.625em !important;
+}
