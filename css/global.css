@@ -61,3 +61,51 @@
 body{
     line-height: 2.625em !important;
 }
+
+.logo{
+    height: 400px !important;
+}
+
+@media only screen and (max-width: 768px){
+    .logo{
+        height: 200px !important;
+    }
+
+    .portfolio-area .filters ul li.active {
+        font-size: 30px !important;
+    }
+}
+
+@media only screen and (max-width: 425px){
+    .logo{
+        height: 276px !important;
+    }
+
+    .portfolio-area .filters ul li.active {
+        font-size: 32px !important;
+    }
+}
+
+@media only screen and (max-width: 375px){
+    .logo{
+        height: 243px !important;
+    }
+
+    .portfolio-area .filters ul li.active {
+        font-size: 35px !important;
+    }
+}
+
+@media only screen and (max-width: 325px){
+    .logo{
+        height: 200px !important;
+    }
+
+    .portfolio-area .filters ul li.active {
+        font-size: 36px !important;
+    }
+
+    .banner-area{
+        margin-top: -135px !important;
+    }
+}
