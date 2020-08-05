@@ -109,3 +109,11 @@ body{
         margin-top: -135px !important;
     }
 }
+
+a:hover .fa-whatsapp{
+    color: #4fce5d !important;
+}
+
+a:hover .fa-envelope{
+    color: #f4e700 !important;
+}
